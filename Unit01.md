@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC312: International Organizations"
+course_description: "An exploration of the theories and functions of international organizations and their relation to global cooperation. Examines the various types of contemporary international organizations and discusses the ways in which their roles and methods of operation address global problems."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Foundations of International Governance and Government** <span
 id="1"></span> 
 *International Organizations, as a subfield of International Relations,

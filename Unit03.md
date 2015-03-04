@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC312: International Organizations"
+course_description: "An exploration of the theories and functions of international organizations and their relation to global cooperation. Examines the various types of contemporary international organizations and discusses the ways in which their roles and methods of operation address global problems."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Intergovernmental Organizations - IGOs** <span id="3"></span> 
 *Intergovernmental Organizations – IGOs – are one of several types of
 organizations that make up the institutional or governmental structures
