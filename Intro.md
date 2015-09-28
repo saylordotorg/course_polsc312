@@ -154,3 +154,4 @@ Tuesday; subunit 2.3 (a total of 4 hours) on Wednesday; etc.
 - [Unit 6](https://legacy.saylor.org/polsc312/Unit06/)
 - [Unit 7](https://legacy.saylor.org/polsc312/Unit07/)
 - [Unit 8](https://legacy.saylor.org/polsc312/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC312/POLSC312-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/POLSC/POLSC312/POLSC312-FinalExam-Answers.html)
