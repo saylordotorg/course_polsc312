@@ -105,7 +105,7 @@ patterns of behavior?*
 
 -   **Reading: The Saylor Foundation’s “An Overview of IR Theory”**
     Link: The Saylor Foundation’s [“An Overview of IR
-    Theory”](http://www.saylor.org/site/wp-content/uploads/2012/08/POLSC312-OC-2.1-Overview-of-IR-Theory-FINAL.pdf) (PDF)  
+    Theory”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/POLSC312-OC-2.1-Overview-of-IR-Theory-FINAL.pdf) (PDF)  
         
      Instructions: Please read the article in its entirety.  
         
